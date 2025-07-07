@@ -735,6 +735,9 @@ Header Style
 Banner Style
 --------------------------------------------- 
 */
+.main-banner {
+  height: 100dvh;
+}
 
 .main-banner .item {
   background-position: center center;
